@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Soul
+  - Divine Soul
+  - Spike
+  - Heart
+  - Magma
+  - Golden Heart
+  - Crusher
+  - Boss Start
+  - Teleport A
+  - Teleport B
+  - Walls
+  - Eye of Argus
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1251908447
+    locked: 0
+  - name: Floor
+    uniqueID: 874496347
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3556442135
+    locked: 0
+  - name: Walls
+    uniqueID: 2495448395
+    locked: 0
+  - name: Items
+    uniqueID: 1460163559
+    locked: 0
+  - name: Player
+    uniqueID: 4262141025
+    locked: 0
+  - name: Boss
+    uniqueID: 3160068261
+    locked: 0

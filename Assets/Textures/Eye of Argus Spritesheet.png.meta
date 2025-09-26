@@ -1,0 +1,1215 @@
+fileFormatVersion: 2
+guid: 83257b3b1348b1441b11c6364a18848f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8519106198197829372
+    second: Eye of Argus Spritesheet_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40107948c0e06c980800000000000000
+      internalID: -8519106198197829372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b7ff706909c74bafb7d42e21b2432
+      internalID: 1884483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bab0a8980d52444859f8ba7d3ee638
+      internalID: -2111258200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 192
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c867c0222eef77e4fb3476b550f6ea91
+      internalID: -51074048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b78e8528138e84dbf94669fef46773
+      internalID: -437248135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 176
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f18bc0afe6e9c4ea2a6a0df7f0dea8
+      internalID: -1498797505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f742aa9d9b92548a3d5fd1a8223301
+      internalID: 900800437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 176
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038180fec186b741ba7837dfe95ba8c
+      internalID: 513730834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48697c33cc43bd429556fcd30221527
+      internalID: -1142062167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f08a1400873154eaae11ed46eb8d31
+      internalID: -814084959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 160
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fff7156e675e4487c375fbe8b1d6b
+      internalID: 2099006778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e0f67c4ecea646982eca5982b8c7f
+      internalID: -2092595718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c72131ff2a2d4a89d02a04d709d5e
+      internalID: 535757183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438ab50fb46b924a91a3ad6bc3f647d
+      internalID: 932653141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 144
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425623ec6b7c914aabb14654ca44495
+      internalID: 526310792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27869fea9db9c264890b7902409faa5b
+      internalID: 1052151719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73205cb454f9514b86188a8216c8ed2
+      internalID: -432221562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2120fdba5be7d834cbcc979c949f58c1
+      internalID: 1622094314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9aea05ed4078479c70b7a53fb82e1
+      internalID: -885772528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b749268d8bbb43a99d79a8e4c31ea
+      internalID: 7923991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dca10babc37534685839d618e95e67
+      internalID: -548425548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3818124e99d6c94b80ac1ac9c8b73d7
+      internalID: 919820836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f932cf981ccc8d4582030b03906cf26
+      internalID: -307059910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b826175f753c0409550aaaafe275ac
+      internalID: 487722721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8b44497c559d4b8bc053e3bf0ab14
+      internalID: 1393693149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a280687878b10e4a9364ffc677729db
+      internalID: 79964952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 96
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4bce0148d17c4791bb826a15ec414
+      internalID: -1052121650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 96
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f3ce8fb99def42a4d3f6889f860dd
+      internalID: -198541336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460909b65fcc6474ab78e23eda276738
+      internalID: 654238790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2faf9bd5268434787cadb815df7113
+      internalID: -1784949885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5d4272269d9e49883c286f461ebd2
+      internalID: -1065789884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 80
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a7aa6b0bd81b45b8de0c5461351e5
+      internalID: -186564124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33174b7641dffd442a8022d1ccae2d2a
+      internalID: -40577523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2a7666aa51bb4997c715ee46b2528
+      internalID: 4044013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a7e791254b194aa9ddcd97d91c401
+      internalID: -429539728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f659b44377b4444b7ec391265bcc31
+      internalID: -147587659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9bbd802f435349bb3eb1ae1a5b618
+      internalID: -56718138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb75759e179394e9d2436ebd0bf0da
+      internalID: -1810284245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6b421ae29b184b9d88a427c58cf6c
+      internalID: 481823962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e86f2aef44b564cb619aef80e94192
+      internalID: 264133023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9b5b5cfbd8ed459a91aa0b2d05eb1
+      internalID: -1561926119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d097837096d418439b504eb236c458a
+      internalID: 958908563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b62821418581d40af9e68dc1f32a74
+      internalID: -865188837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 32
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455a877e0e49214f9ae152a8c46e4b4
+      internalID: -756120035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9899aca01320e242be8089a602034fd
+      internalID: 113437370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 16
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b99f4d410654c43a296493395ae9d8
+      internalID: 817137089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b0f54881f50fb4f9bb16337deb54cd
+      internalID: -1622561755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a584afb15a0794f9b2340a9f0a3d8f
+      internalID: -1546721305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0b8468c14139d47bc0c015f59b7448
+      internalID: 2039202694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye of Argus Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abedc95313761548bf5ed5c79cf5881
+      internalID: 967773991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f893e8e20634c55449a33bbbb5466955
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Eye of Argus Spritesheet_0: -8519106198197829372
+      Eye of Argus Spritesheet_1: 1884483622
+      Eye of Argus Spritesheet_10: 2099006778
+      Eye of Argus Spritesheet_11: -2092595718
+      Eye of Argus Spritesheet_12: 535757183
+      Eye of Argus Spritesheet_13: 932653141
+      Eye of Argus Spritesheet_14: 526310792
+      Eye of Argus Spritesheet_15: 1052151719
+      Eye of Argus Spritesheet_16: -432221562
+      Eye of Argus Spritesheet_17: 1622094314
+      Eye of Argus Spritesheet_18: -885772528
+      Eye of Argus Spritesheet_19: 7923991
+      Eye of Argus Spritesheet_2: -2111258200
+      Eye of Argus Spritesheet_20: -548425548
+      Eye of Argus Spritesheet_21: 919820836
+      Eye of Argus Spritesheet_22: -307059910
+      Eye of Argus Spritesheet_23: 487722721
+      Eye of Argus Spritesheet_24: 1393693149
+      Eye of Argus Spritesheet_25: 79964952
+      Eye of Argus Spritesheet_26: -1052121650
+      Eye of Argus Spritesheet_27: -198541336
+      Eye of Argus Spritesheet_28: 654238790
+      Eye of Argus Spritesheet_29: -1784949885
+      Eye of Argus Spritesheet_3: -51074048
+      Eye of Argus Spritesheet_30: -1065789884
+      Eye of Argus Spritesheet_31: -186564124
+      Eye of Argus Spritesheet_32: -40577523
+      Eye of Argus Spritesheet_33: 4044013
+      Eye of Argus Spritesheet_34: -429539728
+      Eye of Argus Spritesheet_35: -147587659
+      Eye of Argus Spritesheet_36: -56718138
+      Eye of Argus Spritesheet_37: -1810284245
+      Eye of Argus Spritesheet_38: 481823962
+      Eye of Argus Spritesheet_39: 264133023
+      Eye of Argus Spritesheet_4: -437248135
+      Eye of Argus Spritesheet_40: -1561926119
+      Eye of Argus Spritesheet_41: 958908563
+      Eye of Argus Spritesheet_42: -865188837
+      Eye of Argus Spritesheet_43: -756120035
+      Eye of Argus Spritesheet_44: 113437370
+      Eye of Argus Spritesheet_45: 817137089
+      Eye of Argus Spritesheet_46: -1622561755
+      Eye of Argus Spritesheet_47: -1546721305
+      Eye of Argus Spritesheet_48: 2039202694
+      Eye of Argus Spritesheet_49: 967773991
+      Eye of Argus Spritesheet_5: -1498797505
+      Eye of Argus Spritesheet_6: 900800437
+      Eye of Argus Spritesheet_7: 513730834
+      Eye of Argus Spritesheet_8: -1142062167
+      Eye of Argus Spritesheet_9: -814084959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
